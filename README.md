@@ -1,6 +1,6 @@
 # modern interactive site
 
-exercise in advanced javaswcript DOM manipulation
+exercise in advanced javascript DOM manipulation
 
 ## Installation
 
